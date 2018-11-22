@@ -6,11 +6,14 @@ Helper for BEM class generation
 
 ## Install
 
+```bash
 npm install @knaydenov/bem
+
+```
 
 ## Usage
 
-```
+```javascript
 import { b } from '@knaydenov/bem'
 
 b('block').e('element');
