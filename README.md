@@ -1,5 +1,7 @@
 # @knaydenov/bem
 
+[![Build Status](https://travis-ci.org/knaydenov/bem.svg?branch=master)](https://travis-ci.org/knaydenov/bem)
+
 Helper for BEM class generation
 
 ## Install
@@ -7,8 +9,6 @@ Helper for BEM class generation
 npm install @knaydenov/bem
 
 ## Usage
-
-[![Build Status](https://travis-ci.org/knaydenov/bem.svg?branch=master)](https://travis-ci.org/knaydenov/bem)
 
 ```
 import { b } from '@knaydenov/bem'
