@@ -4,6 +4,7 @@ nodejs:
 - "8"
 
 before_script:
+  - node -v
   - npm run setup
   - npm run build
 
