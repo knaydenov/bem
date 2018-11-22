@@ -8,6 +8,8 @@ npm install @knaydenov/bem
 
 ## Usage
 
+[![Build Status](https://travis-ci.org/knaydenov/bem.svg?branch=master)](https://travis-ci.org/knaydenov/bem)
+
 ```
 import { b } from '@knaydenov/bem'
 
