@@ -1,0 +1,9 @@
+tsconfig.json
+.travis.yml
+docs/
+lib/
+dist/*.spec.js
+.npmignore
+
+// npm pack
+knaydenov-bem-*.tgz
