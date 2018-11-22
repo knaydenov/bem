@@ -35,5 +35,8 @@
     "ts-sinon": "^1.0.12",
     "typescript": "^3.1.6"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
 }
